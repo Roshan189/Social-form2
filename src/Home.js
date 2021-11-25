@@ -3,7 +3,7 @@ import React from "react";
 const Home = () => {
   return (
     <>
-      <header id="home">
+      <header className="home">
         <div className="home-content">
           <h1>
             "To solve a difficult problem in medicine, don't study it directly,
