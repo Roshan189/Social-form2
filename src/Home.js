@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <>
       <header id="home">
-        <div class="home-content">
+        <div className="home-content">
           <h1>
             "To solve a difficult problem in medicine, don't study it directly,
             but rather pursue a curiosity about nature and the rest will follow.
